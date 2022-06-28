@@ -1,0 +1,18 @@
+{
+    "cours": {
+      "chapitre": [
+        {
+          "nom": "HTML",
+          "nbr_heures": "20"
+        },
+        {
+          "nom": "HTML5",
+          "nbr_heures": "12"
+        },
+        {
+          "nom": "CSS",
+          "nbr_heures": "20"
+        }
+      ]
+    }
+  }
